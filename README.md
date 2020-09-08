@@ -1,4 +1,6 @@
 # MelodyMate_v1.0
+# To visit the website, go to:
+# http://34.72.223.127/melodymate/
 # To Install this web server:
 # 1. Open Server Host (LAMP Stack, XAMPP, etc.)
 # 2. Open PHPMyAdmin and Import melody_mate.sql file under import tab.
